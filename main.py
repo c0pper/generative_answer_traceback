@@ -11,7 +11,7 @@ segments = sent_tokenize(generated_answer)
 tfidf_vectorizer = TfidfVectorizer()
 tfidf_matrix = tfidf_vectorizer.fit_transform(segments + retrieved_passages)
 
-# Loop through each segment and calculate passage similarity
+# Passaggio su ogni frase della risposta generata per trovare il passaggio più simile
 passage_similarities = []
 for segment in segments:
     # Calcolo di similarità tra segmento e ogni passaggio dato al generativo
@@ -22,6 +22,7 @@ for segment in segments:
     passage_similarities.append((segment, closest_passage))
     # print(f"Segment: {segment}\nClosest passage: {closest_passage}")
 
+#Stessa cosa di prima ma sulle singole frasi del passaggio più vicino invece che su tutti i passaggi
 most_relevant_sentences = []
 for segment, closest_passage in passage_similarities:
     # Tokenizza il passaggio più vicino in frasi
