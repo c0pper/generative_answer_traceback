@@ -5,7 +5,8 @@
         {
             "segment": "The building has reinforced concrete bearing walls, which is a type of earthquake reinforcement.",
             "closest_passage": "Natural Catastrophe Perils\nEarthquake\nExpert.ai EQ Zone:\nLocal soil conditions:\nBuilding type:\nBuilding irregularities:\n0 (0 m/s\u00b2 \u2264 PGA   0.6 m/s\u00b2)\nAverage\n3: Reinforced concrete bearing walls\nNo",
-            "most_relevant_sentence": "Natural Catastrophe Perils\nEarthquake\nExpert.ai EQ Zone:\nLocal soil conditions:\nBuilding type:\nBuilding irregularities:\n0 (0 m/s\u00b2 \u2264 PGA   0.6 m/s\u00b2)\nAverage\n3: Reinforced concrete bearing walls\nNo"
+            "most_relevant_sentence": "Natural Catastrophe Perils\nEarthquake\nExpert.ai EQ Zone:\nLocal soil conditions:\nBuilding type:\nBuilding irregularities:\n0 (0 m/s\u00b2 \u2264 PGA   0.6 m/s\u00b2)\nAverage\n3: Reinforced concrete bearing walls\nNo",
+            "manual_score": "-"
         }
     ]
 }

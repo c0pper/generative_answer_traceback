@@ -1346,3 +1346,595 @@ No
 
 
 
+2023-10-23 12:03:36,550 - INFO - ########## Question: What is manufactured at this working site? ##########
+
+
+2023-10-23 12:03:36,550 - INFO - +++++++Generated_answer: This site manufactures satellites, satellite components as well as sensors and antenna systems for satellites. Primary customers are the U.S. Government include the Department of Defense and NASA, as well as private industry who work with space and earth sciences.
+
+
+2023-10-23 12:03:36,593 - INFO - Segment:
+ This site manufactures satellites, satellite components as well as sensors and antenna systems for satellites.
+
++++++++Closest passage:
+ Occupancy/Special Hazards
+    This site manufactures satellites, satellite components as well as sensors and antenna systems for
+    satellites. Primary customers are the U.S. Government include the Department of Defense and NASA, as
+    well as private industry who work with space and earth sciences. Supporting activities include R&D,
+    design, and testing. The facility includes many labs for specific disciplines as well as two machine shops.
+    Production is currently supported by a staff of approximately 2,466 employees working mostly a single
+    shift. The Some Springfield campus covers nearly 835,000 in over 20 owned and leased buildings of non-
+    combustible construction. Approximately 70% of the buildings are sprinklered. The main production /
+    assembly areas are in the FA, YY, FI and FT building complex on Commerce street. These buildings
+    include various labs, testing assemblies, clean rooms and component assembly areas. Overhead cranes
+    are provided in the high bay areas and some clean rooms to handle larger project components.
+    The remaining buildings on the Springfield Some campus are for various labs, offices, engineering,
+    technical service, facilities, design and R&D. It is understood these functions while important are not
+    critical to the ongoing work in the ”F” building complexes as the work could be performed elsewhere.
+    Hazards include the storage and handling of flammable liquids and waste solvents in lab areas. Approved
+    flammable liquids cabinets are in place and procedure seem adequate except for the temporary storage
+    of flammables on the building FA dock while waiting QC testing and inspection. Flammable flux is used in
+    the FA building wave soldiering machine that has a flash point of 52 deg F. CO 2 protection has been
+    recommended.
+    A detached approved flammable liquids storage container is located detached approximately 18 ft
+    from the north wall of building YY for the storage of waste solvent and miscellaneous flammables. The
+    building is protected with an automatic dry chemical system
+
++++++++Most relevant sentence:
+ Occupancy/Special Hazards
+    This site manufactures satellites, satellite components as well as sensors and antenna systems for
+    satellites.
+
+
+
+
+2023-10-23 12:03:36,609 - INFO - Segment:
+ Primary customers are the U.S. Government include the Department of Defense and NASA, as well as private industry who work with space and earth sciences.
+
++++++++Closest passage:
+ Occupancy/Special Hazards
+    This site manufactures satellites, satellite components as well as sensors and antenna systems for
+    satellites. Primary customers are the U.S. Government include the Department of Defense and NASA, as
+    well as private industry who work with space and earth sciences. Supporting activities include R&D,
+    design, and testing. The facility includes many labs for specific disciplines as well as two machine shops.
+    Production is currently supported by a staff of approximately 2,466 employees working mostly a single
+    shift. The Some Springfield campus covers nearly 835,000 in over 20 owned and leased buildings of non-
+    combustible construction. Approximately 70% of the buildings are sprinklered. The main production /
+    assembly areas are in the FA, YY, FI and FT building complex on Commerce street. These buildings
+    include various labs, testing assemblies, clean rooms and component assembly areas. Overhead cranes
+    are provided in the high bay areas and some clean rooms to handle larger project components.
+    The remaining buildings on the Springfield Some campus are for various labs, offices, engineering,
+    technical service, facilities, design and R&D. It is understood these functions while important are not
+    critical to the ongoing work in the ”F” building complexes as the work could be performed elsewhere.
+    Hazards include the storage and handling of flammable liquids and waste solvents in lab areas. Approved
+    flammable liquids cabinets are in place and procedure seem adequate except for the temporary storage
+    of flammables on the building FA dock while waiting QC testing and inspection. Flammable flux is used in
+    the FA building wave soldiering machine that has a flash point of 52 deg F. CO 2 protection has been
+    recommended.
+    A detached approved flammable liquids storage container is located detached approximately 18 ft
+    from the north wall of building YY for the storage of waste solvent and miscellaneous flammables. The
+    building is protected with an automatic dry chemical system
+
++++++++Most relevant sentence:
+ Primary customers are the U.S. Government include the Department of Defense and NASA, as
+    well as private industry who work with space and earth sciences.
+
+
+
+
+2023-10-23 12:03:36,614 - INFO - ########## Question: What are the main risks at this location? ##########
+
+
+2023-10-23 12:03:36,614 - INFO - +++++++Generated_answer: The main risks at this location include fire, flood, earthquake, and climate-related hazards. Fire risks are considered to be low due to the lack of directly adjacent structures, however, there is still a risk of fire due to human error or other causes. Flood risks are low due to the facility being located outside the 500-year flood zone, but it is still important to monitor the area for potential flooding. Earthquake risks are moderate due to the facility being located in the MR earthquake zone. Climate-related hazards such as snow, ice, and wind can also pose a risk to the facility.
+
+
+2023-10-23 12:03:36,638 - INFO - Segment:
+ The main risks at this location include fire, flood, earthquake, and climate-related hazards.
+
++++++++Closest passage:
+ Exposures
+    Fire – Low; no directly adjacent structures.
+    Flood – This facility is located outside the 500 yr. flood zone. Building FA and FI has been reevaluated
+    based on the 2013 flood to Zone X. Zone X is areas determined to be outside 500-year floodplain
+    determined to be outside the 1% and 0.2% annual chance floodplains;
+    Earthquake – This facility is located in the MR earthquake zone – 0. Damage Expected – None.
+    Climate – This site is located in an area subject to significant snow, ice and low winter temperatures.
+    Surface Water – This facility is not susceptible to surface water damage.
+    Smoke Damage – The production areas and storage areas are highly susceptible to smoke damage.
+    Snow Loading – Roofs are designed per local snow loading and exposures.
+    Hail Storm – Hail exposure is MR Zone 5.
+    Rainfall Intensity/Surface Water – The site appears to have proper positive drainage.
+    Windstorm – Exposure in extra tropical storm is 121 to 160 km/hr. The plant is located in a MR Tornado
+    Zone 3.
+    Water/Liquid Damage – This facility is not susceptible to water/liquid damage.
+    Lightning – Lightning exposure per MR is 4 to 10 strokes per year/km 2 . Lightning protection is not
+    provided. There are no buildings, chimneys, stacks, or miscellaneous structures over 75 ft. in height.
+
++++++++Most relevant sentence:
+ Flood – This facility is located outside the 500 yr. flood zone.
+
+
+
+
+2023-10-23 12:03:36,638 - INFO - Segment:
+ Fire risks are considered to be low due to the lack of directly adjacent structures, however, there is still a risk of fire due to human error or other causes.
+
++++++++Closest passage:
+ Earth Quake – MR Zone 0
+    The site survey consisted of the following:
+    - A review of recent or planned changes in production, products, construction, or fire protection;
+    - A review of loss prevention Human Element Programs;
+    - A review of preventative and predictive maintenance procedures;
+    - A partial tour of the production facility interior and exterior, as limited by security requirements;
+    - A visual inspection of fire protection equipment and associated fire protection control valves, as limited
+    by security requirements;
+    - Discussion of observations and recommendations;
+    Human Element programs were found to be in various stages of development. Programs reviewed included
+    the following:
+    - Housekeeping;
+    - Hot Work;
+    - Fire Protection Impairments;
+    - Fire Protection Inspection and Maintenance;
+    - Management of Change;
+    - Smoking Policy;
+    - Contractors Work Procedures;
+    - Emergency Procedures;
+    - Business Contingency Planning;
+    Continuity of combustibles throughout the site is generally considered light to moderate in most areas.
+    Production hazards are considered to be low and are generally well controlled.
+    Security at this site is considered to be adequate with access control systems in place in all building.
+    Security service is provided on site during the day shift. All fire alarms ring to the security headquarters
+    at the Some Aerospace Facility in Broomfield, Colorado.
+    Key opportunities for improvement were observed with recommendations made as follows:
+    1. Improve or add sprinkler protection in critical areas;
+    2. Improve maintenance and inspection of fire protection equipment;
+    3. Improve inspection and service of fire extinguishers;
+    4. Provide battery backup for aspirating smoke detection systems in in critical assembly and testing areas;
+    5. Improving storage of flammable liquids on the FA dock;
+    6. Repair the leaking fire department connection for the FA building;
+    7. Provide CO2 fire protection for the Heller 1707 MK III wave soldering machine in the FA building;
+    8. Develop an effective business contingency plan for all critical operations;
+    9. The solid shelving in the store room area should to allow for fire sprinkler distribution;
+    Overall the Somwhere facility was found to be well maintained with excellent. Cooperation of the plant
+    facilities staff was very much appreciated.
+
++++++++Most relevant sentence:
+ Earth Quake – MR Zone 0
+    The site survey consisted of the following:
+    - A review of recent or planned changes in production, products, construction, or fire protection;
+    - A review of loss prevention Human Element Programs;
+    - A review of preventative and predictive maintenance procedures;
+    - A partial tour of the production facility interior and exterior, as limited by security requirements;
+    - A visual inspection of fire protection equipment and associated fire protection control valves, as limited
+    by security requirements;
+    - Discussion of observations and recommendations;
+    Human Element programs were found to be in various stages of development.
+
+
+
+
+2023-10-23 12:03:36,638 - INFO - Segment:
+ Flood risks are low due to the facility being located outside the 500-year flood zone, but it is still important to monitor the area for potential flooding.
+
++++++++Closest passage:
+ Exposures
+    Fire – Low; no directly adjacent structures.
+    Flood – This facility is located outside the 500 yr. flood zone. Building FA and FI has been reevaluated
+    based on the 2013 flood to Zone X. Zone X is areas determined to be outside 500-year floodplain
+    determined to be outside the 1% and 0.2% annual chance floodplains;
+    Earthquake – This facility is located in the MR earthquake zone – 0. Damage Expected – None.
+    Climate – This site is located in an area subject to significant snow, ice and low winter temperatures.
+    Surface Water – This facility is not susceptible to surface water damage.
+    Smoke Damage – The production areas and storage areas are highly susceptible to smoke damage.
+    Snow Loading – Roofs are designed per local snow loading and exposures.
+    Hail Storm – Hail exposure is MR Zone 5.
+    Rainfall Intensity/Surface Water – The site appears to have proper positive drainage.
+    Windstorm – Exposure in extra tropical storm is 121 to 160 km/hr. The plant is located in a MR Tornado
+    Zone 3.
+    Water/Liquid Damage – This facility is not susceptible to water/liquid damage.
+    Lightning – Lightning exposure per MR is 4 to 10 strokes per year/km 2 . Lightning protection is not
+    provided. There are no buildings, chimneys, stacks, or miscellaneous structures over 75 ft. in height.
+
++++++++Most relevant sentence:
+ Flood – This facility is located outside the 500 yr. flood zone.
+
+
+
+
+2023-10-23 12:03:36,638 - INFO - Segment:
+ Earthquake risks are moderate due to the facility being located in the MR earthquake zone.
+
++++++++Closest passage:
+ Exposures
+    Fire – Low; no directly adjacent structures.
+    Flood – This facility is located outside the 500 yr. flood zone. Building FA and FI has been reevaluated
+    based on the 2013 flood to Zone X. Zone X is areas determined to be outside 500-year floodplain
+    determined to be outside the 1% and 0.2% annual chance floodplains;
+    Earthquake – This facility is located in the MR earthquake zone – 0. Damage Expected – None.
+    Climate – This site is located in an area subject to significant snow, ice and low winter temperatures.
+    Surface Water – This facility is not susceptible to surface water damage.
+    Smoke Damage – The production areas and storage areas are highly susceptible to smoke damage.
+    Snow Loading – Roofs are designed per local snow loading and exposures.
+    Hail Storm – Hail exposure is MR Zone 5.
+    Rainfall Intensity/Surface Water – The site appears to have proper positive drainage.
+    Windstorm – Exposure in extra tropical storm is 121 to 160 km/hr. The plant is located in a MR Tornado
+    Zone 3.
+    Water/Liquid Damage – This facility is not susceptible to water/liquid damage.
+    Lightning – Lightning exposure per MR is 4 to 10 strokes per year/km 2 . Lightning protection is not
+    provided. There are no buildings, chimneys, stacks, or miscellaneous structures over 75 ft. in height.
+
++++++++Most relevant sentence:
+ Zone X is areas determined to be outside 500-year floodplain
+    determined to be outside the 1% and 0.2% annual chance floodplains;
+    Earthquake – This facility is located in the MR earthquake zone – 0.
+
+
+
+
+2023-10-23 12:03:36,655 - INFO - Segment:
+ Climate-related hazards such as snow, ice, and wind can also pose a risk to the facility.
+
++++++++Closest passage:
+ Exposures
+    Fire – Low; no directly adjacent structures.
+    Flood – This facility is located outside the 500 yr. flood zone. Building FA and FI has been reevaluated
+    based on the 2013 flood to Zone X. Zone X is areas determined to be outside 500-year floodplain
+    determined to be outside the 1% and 0.2% annual chance floodplains;
+    Earthquake – This facility is located in the MR earthquake zone – 0. Damage Expected – None.
+    Climate – This site is located in an area subject to significant snow, ice and low winter temperatures.
+    Surface Water – This facility is not susceptible to surface water damage.
+    Smoke Damage – The production areas and storage areas are highly susceptible to smoke damage.
+    Snow Loading – Roofs are designed per local snow loading and exposures.
+    Hail Storm – Hail exposure is MR Zone 5.
+    Rainfall Intensity/Surface Water – The site appears to have proper positive drainage.
+    Windstorm – Exposure in extra tropical storm is 121 to 160 km/hr. The plant is located in a MR Tornado
+    Zone 3.
+    Water/Liquid Damage – This facility is not susceptible to water/liquid damage.
+    Lightning – Lightning exposure per MR is 4 to 10 strokes per year/km 2 . Lightning protection is not
+    provided. There are no buildings, chimneys, stacks, or miscellaneous structures over 75 ft. in height.
+
++++++++Most relevant sentence:
+ Climate – This site is located in an area subject to significant snow, ice and low winter temperatures.
+
+
+
+
+2023-10-23 12:03:36,658 - INFO - ########## Question: Where does this location get their water supply from? ##########
+
+
+2023-10-23 12:03:36,658 - INFO - +++++++Generated_answer: This location gets their water supply from the city of Springfield's municipal water supply.
+
+
+2023-10-23 12:03:36,663 - INFO - Segment:
+ This location gets their water supply from the city of Springfield's municipal water supply.
+
++++++++Closest passage:
+ Water Supply Test Results
+Water Supply
+COPE Report
+This site is supplied by a strong municipal water supply from the city of Springfield. The facility sprinklers are fed from
+6-inch connections to 8-inch city water mains.
+FIRE	 RATING	 SUCTION	   AUTO OR	    PUMPS	 GPM @ PSI @ RPM	 FROM	 DRIVE	 MANUAL	 RELIABLE	 COMMENTS/CONDITIONS
+DATE	 TEST	 FLOW LOCATION &	 GPM	 STATIC	 NET OR	 STATIC &	 FIRE PUMP
+                    SUCT	 DISCH	 SPEED	 RATING
+& BY	 OF	 DISCHARGE COEFF.	     RESIDUAL	 RESIDUAL LOCATION	 PSI	 PSI	 RPM	  City of Springfield Water	 City	 February 2014	 1876	 155	 150
+
++++++++Most relevant sentence:
+ Water Supply Test Results
+Water Supply
+COPE Report
+This site is supplied by a strong municipal water supply from the city of Springfield.
+
+
+
+
+2023-10-23 12:03:36,667 - INFO - ########## Question: Which recommendations were made at this location? ##########
+
+
+2023-10-23 12:03:36,667 - INFO - +++++++Generated_answer: The key recommendations made at this location included installing sprinklers in several of the buildings owned by Some in accordance with YY Global standards, increasing the amount of sprinklers needed to cover the facility, installing gaseous suppression systems throughout the site, and improving security with access control systems in place in all buildings. Additionally, it was suggested that security service be provided on site during the day shift and that all fire alarms ring to the security headquarters at the Some Aerospace Facility in Broomfield, Colorado.
+
+
+2023-10-23 12:03:36,670 - INFO - Segment:
+ The key recommendations made at this location included installing sprinklers in several of the buildings owned by Some in accordance with YY Global standards, increasing the amount of sprinklers needed to cover the facility, installing gaseous suppression systems throughout the site, and improving security with access control systems in place in all buildings.
+
++++++++Closest passage:
+ Main Changes / Projects
+Currently, it is being planned that the Tech Tower and buildings T-1, T-2 and T-3 will razed to make room
+for a new engineering building. The current occupancies will be shifted to other buildings on the campus
+during the project. When completed many of the occupants of the leased buildings will be moved to the new
+engineering building.
+Additionally, plans are also being made to install sprinklers in several of the buildings owned by Some in
+accordance with YY Global previous recommendations including the penthouse supporting the FA clean
+room and the 3rd floor north area of building FT. Design specifics and schedules were not available.
+The site has recently completed a new electrical connection and switch gear for Building FI. The new
+equipment will increase reliability and capacity for additional equipment with in the complex.
+The FA large clean room is expected to be changed to an assembly area in the next 2 years.
+YY Global recommendations 13-03-002 & 003 have been reported completed.
+No sprinklers have been recommended for the T-1,2,3 and Tech Tower or leased building based on limited
+impact to operations and impeding replacement by the new engineering building.
+
++++++++Most relevant sentence:
+ Additionally, plans are also being made to install sprinklers in several of the buildings owned by Some in
+accordance with YY Global previous recommendations including the penthouse supporting the FA clean
+room and the 3rd floor north area of building FT. Design specifics and schedules were not available.
+
+
+
+
+2023-10-23 12:03:36,670 - INFO - Segment:
+ Additionally, it was suggested that security service be provided on site during the day shift and that all fire alarms ring to the security headquarters at the Some Aerospace Facility in Broomfield, Colorado.
+
++++++++Closest passage:
+ Earth Quake – MR Zone 0
+The site survey consisted of the following:
+- A review of recent or planned changes in production, products, construction, or fire protection;
+- A review of loss prevention Human Element Programs;
+- A review of preventative and predictive maintenance procedures;
+- A partial tour of the production facility interior and exterior, as limited by security requirements;
+- A visual inspection of fire protection equipment and associated fire protection control valves, as limited
+by security requirements;
+- Discussion of observations and recommendations;
+Human Element programs were found to be in various stages of development. Programs reviewed included
+the following:
+- Housekeeping;
+- Hot Work;
+- Fire Protection Impairments;
+- Fire Protection Inspection and Maintenance;
+- Management of Change;
+- Smoking Policy;
+- Contractors Work Procedures;
+- Emergency Procedures;
+- Business Contingency Planning;
+Continuity of combustibles throughout the site is generally considered light to moderate in most areas.
+Production hazards are considered to be low and are generally well controlled.
+Security at this site is considered to be adequate with access control systems in place in all building.
+Security service is provided on site during the day shift. All fire alarms ring to the security headquarters
+at the Some Aerospace Facility in Broomfield, Colorado.
+Key opportunities for improvement were observed with recommendations made as follows:
+1. Improve or add sprinkler protection in critical areas;
+2. Improve maintenance and inspection of fire protection equipment;
+3. Improve inspection and service of fire extinguishers;
+4. Provide battery backup for aspirating smoke detection systems in in critical assembly and testing areas;
+5. Improving storage of flammable liquids on the FA dock;
+6. Repair the leaking fire department connection for the FA building;
+7. Provide CO2 fire protection for the Heller 1707 MK III wave soldering machine in the FA building;
+8. Develop an effective business contingency plan for all critical operations;
+9. The solid shelving in the store room area should to allow for fire sprinkler distribution;
+Overall the Somwhere facility was found to be well maintained with excellent. Cooperation of the plant
+facilities staff was very much appreciated.
+
++++++++Most relevant sentence:
+ All fire alarms ring to the security headquarters
+at the Some Aerospace Facility in Broomfield, Colorado.
+
+
+
+
+2023-10-23 12:03:36,689 - INFO - ########## Question: Which is the cost estimated for the new recommendations? ##########
+
+
+2023-10-23 12:03:36,689 - INFO - +++++++Generated_answer: The cost estimated for the new recommendations is $169,100,000.
+
+
+2023-10-23 12:03:36,698 - INFO - Segment:
+ The cost estimated for the new recommendations is $169,100,000.
+
++++++++Closest passage:
+ Main Changes / Projects
+Currently, it is being planned that the Tech Tower and buildings T-1, T-2 and T-3 will razed to make room
+for a new engineering building. The current occupancies will be shifted to other buildings on the campus
+during the project. When completed many of the occupants of the leased buildings will be moved to the new
+engineering building.
+Additionally, plans are also being made to install sprinklers in several of the buildings owned by Some in
+accordance with YY Global previous recommendations including the penthouse supporting the FA clean
+room and the 3rd floor north area of building FT. Design specifics and schedules were not available.
+The site has recently completed a new electrical connection and switch gear for Building FI. The new
+equipment will increase reliability and capacity for additional equipment with in the complex.
+The FA large clean room is expected to be changed to an assembly area in the next 2 years.
+YY Global recommendations 13-03-002 & 003 have been reported completed.
+No sprinklers have been recommended for the T-1,2,3 and Tech Tower or leased building based on limited
+impact to operations and impeding replacement by the new engineering building.
+
++++++++Most relevant sentence:
+ The new
+equipment will increase reliability and capacity for additional equipment with in the complex.
+
+
+
+
+2023-10-23 12:03:36,700 - INFO - ########## Question: Which actions need to be taken to adhere to  fire protections standards? ##########
+
+
+2023-10-23 12:03:36,700 - INFO - +++++++Generated_answer: A. Monthly fire protection valve inspections
+B. Monthly waterflow alarm tests
+C. Monthly sprinkler riser drain tests
+D. Semi Annual tests and inspection of all CO2 fire protection systems per NFPA 12
+E. Semi Annual tests and inspection of all clean agent fire protection systems per NFPA 2001
+F. Aspirating smoke detection systems should be tested and inspected annually
+G. Fire Extinguisher Inspections & Placement per NFPA 10 standard
+H. Human Element Programs Fire Protection Self-Inspections
+I. Improve Sprinkler Protection
+J. Flammable Liquids Storage
+
+
+2023-10-23 12:03:36,713 - INFO - Segment:
+ A.
+
++++++++Closest passage:
+ 2017.2 Fire Protection Maintenace and Testing
+The following improvements should be made to insure the reliability of all fire protection
+systems;
+A. Monthly fire protection valve inspections;
+B. Monthly waterflow alarm tests;
+C. Monthly sprinkler riser drain tests;
+D. Semi Annual tests and inspection of all CO2 fire protection systems per NFPA 12;
+E. Semi Annual tests and inspection of all clean agent fire protection systems per NFPA
+2001;
+F. Aspirating smoke detection systems should be tested per NFPA 72 and manufactures
+requirements;
+G. Pre-Action Sprinkler systems should be trip tested per NFPA 25 standard for
+maintenance and inspection of water based sprinkler systems
+
++++++++Most relevant sentence:
+ 2017.2 Fire Protection Maintenace and Testing
+The following improvements should be made to insure the reliability of all fire protection
+systems;
+A.
+
+
+
+
+2023-10-23 12:03:36,713 - INFO - Segment:
+ Monthly fire protection valve inspections
+B.
+
++++++++Closest passage:
+ 2017.2 Fire Protection Maintenace and Testing
+The following improvements should be made to insure the reliability of all fire protection
+systems;
+A. Monthly fire protection valve inspections;
+B. Monthly waterflow alarm tests;
+C. Monthly sprinkler riser drain tests;
+D. Semi Annual tests and inspection of all CO2 fire protection systems per NFPA 12;
+E. Semi Annual tests and inspection of all clean agent fire protection systems per NFPA
+2001;
+F. Aspirating smoke detection systems should be tested per NFPA 72 and manufactures
+requirements;
+G. Pre-Action Sprinkler systems should be trip tested per NFPA 25 standard for
+maintenance and inspection of water based sprinkler systems
+
++++++++Most relevant sentence:
+ Monthly fire protection valve inspections;
+B.
+
+
+
+
+2023-10-23 12:03:36,722 - INFO - Segment:
+ Monthly waterflow alarm tests
+C. Monthly sprinkler riser drain tests
+D. Semi Annual tests and inspection of all CO2 fire protection systems per NFPA 12
+E. Semi Annual tests and inspection of all clean agent fire protection systems per NFPA 2001
+F. Aspirating smoke detection systems should be tested and inspected annually
+G. Fire Extinguisher Inspections & Placement per NFPA 10 standard
+H. Human Element Programs Fire Protection Self-Inspections
+I.
+
++++++++Closest passage:
+ 2017.2 Fire Protection Maintenace and Testing
+The following improvements should be made to insure the reliability of all fire protection
+systems;
+A. Monthly fire protection valve inspections;
+B. Monthly waterflow alarm tests;
+C. Monthly sprinkler riser drain tests;
+D. Semi Annual tests and inspection of all CO2 fire protection systems per NFPA 12;
+E. Semi Annual tests and inspection of all clean agent fire protection systems per NFPA
+2001;
+F. Aspirating smoke detection systems should be tested per NFPA 72 and manufactures
+requirements;
+G. Pre-Action Sprinkler systems should be trip tested per NFPA 25 standard for
+maintenance and inspection of water based sprinkler systems
+
++++++++Most relevant sentence:
+ Monthly waterflow alarm tests;
+C. Monthly sprinkler riser drain tests;
+D. Semi Annual tests and inspection of all CO2 fire protection systems per NFPA 12;
+E. Semi Annual tests and inspection of all clean agent fire protection systems per NFPA
+2001;
+F. Aspirating smoke detection systems should be tested per NFPA 72 and manufactures
+requirements;
+G. Pre-Action Sprinkler systems should be trip tested per NFPA 25 standard for
+maintenance and inspection of water based sprinkler systems
+
+
+
+
+2023-10-23 12:03:36,724 - INFO - Segment:
+ Improve Sprinkler Protection
+J.
+
++++++++Closest passage:
+ 2017.2 Fire Protection Maintenace and Testing
+The following improvements should be made to insure the reliability of all fire protection
+systems;
+A. Monthly fire protection valve inspections;
+B. Monthly waterflow alarm tests;
+C. Monthly sprinkler riser drain tests;
+D. Semi Annual tests and inspection of all CO2 fire protection systems per NFPA 12;
+E. Semi Annual tests and inspection of all clean agent fire protection systems per NFPA
+2001;
+F. Aspirating smoke detection systems should be tested per NFPA 72 and manufactures
+requirements;
+G. Pre-Action Sprinkler systems should be trip tested per NFPA 25 standard for
+maintenance and inspection of water based sprinkler systems
+
++++++++Most relevant sentence:
+ Monthly fire protection valve inspections;
+B.
+
+
+
+
+2023-10-23 12:03:36,725 - INFO - Segment:
+ Flammable Liquids Storage
+
++++++++Closest passage:
+ PHYSICAL PROTECTION
+Active Protection
+          2017.1	 Improve Sprinkler Protection	 Open	 169,100,000	 1,500,000	 750,000
+  Priority: Important	        Occupancy Related Hazards
+          2017.5	 Flammable Liquids Storage	 Open	 65,000,000	 1,500,000	 50,000
+  Priority: Important	        2017.7	 CO2 Protection Wave Soldering	 Open	 13,500,000	 1,500,000	 25,000
+  Priority: Important	        Surveillance
+          2017.3	 Back UP Power Aspirating Smoke Detection Systems	 Open	 60,000,000	 1,500,000	 50,000
+  Priority: Important
+
++++++++Most relevant sentence:
+ PHYSICAL PROTECTION
+Active Protection
+          2017.1	 Improve Sprinkler Protection	 Open	 169,100,000	 1,500,000	 750,000
+  Priority: Important	        Occupancy Related Hazards
+          2017.5	 Flammable Liquids Storage	 Open	 65,000,000	 1,500,000	 50,000
+  Priority: Important	        2017.7	 CO2 Protection Wave Soldering	 Open	 13,500,000	 1,500,000	 25,000
+  Priority: Important	        Surveillance
+          2017.3	 Back UP Power Aspirating Smoke Detection Systems	 Open	 60,000,000	 1,500,000	 50,000
+  Priority: Important
+
+
+
+
+2023-10-23 12:03:36,729 - INFO - ########## Question: which kind of earthquake reinforcement does the building have? ##########
+
+
+2023-10-23 12:03:36,729 - INFO - +++++++Generated_answer: The building has reinforced concrete bearing walls, which is a type of earthquake reinforcement.
+
+
+2023-10-23 12:03:36,731 - INFO - Segment:
+ The building has reinforced concrete bearing walls, which is a type of earthquake reinforcement.
+
++++++++Closest passage:
+ Natural Catastrophe Perils
+Earthquake
+Expert.ai EQ Zone:
+Local soil conditions:
+Building type:
+Building irregularities:
+0 (0 m/s² \u2264 PGA   0.6 m/s²)
+Average
+3: Reinforced concrete bearing walls
+No
+
++++++++Most relevant sentence:
+ Natural Catastrophe Perils
+Earthquake
+Expert.ai EQ Zone:
+Local soil conditions:
+Building type:
+Building irregularities:
+0 (0 m/s² \u2264 PGA   0.6 m/s²)
+Average
+3: Reinforced concrete bearing walls
+No
+
+
+
+

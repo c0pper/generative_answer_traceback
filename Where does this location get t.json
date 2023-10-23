@@ -5,7 +5,8 @@
         {
             "segment": "This location gets their water supply from the city of Springfield's municipal water supply.",
             "closest_passage": "Water Supply Test Results\nWater Supply\nCOPE Report\nThis site is supplied by a strong municipal water supply from the city of Springfield. The facility sprinklers are fed from\n6-inch connections to 8-inch city water mains.\nFIRE\t RATING\t SUCTION\t   AUTO OR\t    PUMPS\t GPM @ PSI @ RPM\t FROM\t DRIVE\t MANUAL\t RELIABLE\t COMMENTS/CONDITIONS\nDATE\t TEST\t FLOW LOCATION &\t GPM\t STATIC\t NET OR\t STATIC &\t FIRE PUMP\n                    SUCT\t DISCH\t SPEED\t RATING\n& BY\t OF\t DISCHARGE COEFF.\t     RESIDUAL\t RESIDUAL LOCATION\t PSI\t PSI\t RPM\t  City of Springfield Water\t City\t February 2014\t 1876\t 155\t 150",
-            "most_relevant_sentence": "Water Supply Test Results\nWater Supply\nCOPE Report\nThis site is supplied by a strong municipal water supply from the city of Springfield."
+            "most_relevant_sentence": "Water Supply Test Results\nWater Supply\nCOPE Report\nThis site is supplied by a strong municipal water supply from the city of Springfield.",
+            "manual_score": "-"
         }
     ]
 }

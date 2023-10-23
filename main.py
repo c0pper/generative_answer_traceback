@@ -52,11 +52,13 @@ def find_sources_per_sentences(question_set: QuestionSet):
         result_data["traceback"].append({
             "segment": segment,
             "closest_passage": closest_passage,
-            "most_relevant_sentence": most_relevant_sentence
+            "most_relevant_sentence": most_relevant_sentence,
+            "manual_score": "-"
         })
     
-    with open(f"{question_set.question[:20]}.json", 'w') as json_file:
+    with open(f"{question_set.question[:30]}.json", 'w') as json_file:
         json.dump(result_data, json_file, indent=4)
 
 if __name__ == "__main__":
-    find_sources_per_sentences(question_set7)
+    for q in [question_set1, question_set2, question_set3, question_set4, question_set5, question_set6, question_set7]:
+        find_sources_per_sentences(q)
